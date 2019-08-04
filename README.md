@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="http://www.biz-gis.com/files/attach/images/2446/632/008/ScreenHunter_002.jpg" alt="사진" style="width:200px;"/>
+  <img src="http://www.biz-gis.com/files/attach/images/2446/632/008/ScreenHunter_002.jpg" width="150"/>
 </p>
 
 <h1 align="center">Korea-Jibun-Dataset</h1>
